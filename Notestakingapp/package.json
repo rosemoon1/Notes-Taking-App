@@ -7,7 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Sarthak S Kumar",
   "license": "none",
   "dependencies": {
     "cors": "^2.8.5",
