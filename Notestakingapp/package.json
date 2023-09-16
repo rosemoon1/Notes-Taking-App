@@ -1,0 +1,19 @@
+{
+  "name": "Notes-Web-App",
+  "version": "1.0.0",
+  "description": "Notes App. Sem 3 Web Technologies Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Sarthak S Kumar",
+  "license": "none",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.15",
+    "nodemon": "^2.0.20"
+  }
+}
